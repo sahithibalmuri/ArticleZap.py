@@ -5,3 +5,7 @@ transformers
 torch
 newspaper3k
 lxml[html_clean]
+SpeechRecognition
+librosa
+soundfile
+pyaudio
