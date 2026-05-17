@@ -1,0 +1,7 @@
+streamlit
+sumy
+nltk
+transformers
+torch
+newspaper3k
+lxml[html_clean]
